@@ -1,0 +1,6 @@
+[submodule "vendor/src/openh264"]
+	path = vendor/src/openh264
+	url = git@github.com:cisco/openh264.git
+[submodule "vendor/src/x264"]
+	path = vendor/src/x264
+	url = https://code.videolan.org/videolan/x264.git
