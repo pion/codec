@@ -1,0 +1,6 @@
+[submodule "cvendor/src/openh264"]
+	path = cvendor/src/openh264
+	url = https://github.com/cisco/openh264.git
+[submodule "vcendor/src/x264"]
+	path = cvendor/src/x264
+	url = https://code.videolan.org/videolan/x264.git
